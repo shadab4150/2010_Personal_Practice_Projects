@@ -7,8 +7,8 @@
 |**Competition Name**	| **Context** |	**Attemptted** | **Link** |
 |-------------------|----------|------------|------|
 |**Natural language Processing**|			
-|Quora Question Pairs|	Can you identify question pairs that have the same intent?	|No|	https://www.kaggle.com/c/quora-question-pairs/|
-|Contradictory, My Dear Watson|	Detecting contradiction and entailment in multilingual text using TPUs	|No	|https://www.kaggle.com/c/contradictory-my-dear-watson/overview |
+|Quora Question Pairs|	Can you identify question pairs that have the same intent?	|Yes|	https://www.kaggle.com/c/quora-question-pairs/|
+|Contradictory, My Dear Watson|	Detecting contradiction and entailment in multilingual text using TPUs	|Yes	|https://www.kaggle.com/c/contradictory-my-dear-watson/overview |
 |tensorflow2-question-answering|	Identify the answers to real user questions about Wikipedia page content|	No|	https://www.kaggle.com/c/tensorflow2-question-answering|
 |Tweet Sentiment Extraction|	Extract support phrases for sentiment labels	|No|	https://www.kaggle.com/c/tweet-sentiment-extraction|
 |**Audio Processing**|			

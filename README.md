@@ -1,6 +1,8 @@
-# Kaggle 2021 Practice Competitions
+# 2021 Personal Practice Projects
 
-* Kaggle 2021 practice competitions repo for Audio, NLP, Vision and Tabular data competitions.
+* This is personal curated competitions list of kaggle competitions.
+* To challenge myself and learn on the process.
+* Repo for Audio, NLP, Vision and Tabular data competitions.
 
 ***
 

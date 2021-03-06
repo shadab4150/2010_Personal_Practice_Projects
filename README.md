@@ -16,9 +16,9 @@
 |Freesound Audio Tagging 2019|	Automatically recognize sounds and apply tags of varying natures|	No|	https://www.kaggle.com/c/freesound-audio-tagging-2019 |
 |Cornell Birdcall Identification	|Build tools for bird population monitoring	|Yes|	https://www.kaggle.com/c/birdsong-recognition/overview |
 |**Computer Vision**|			
-|ALASKA2 Image Steganalysis|	Detect secret data hidden within digital images|	No|	https://www.kaggle.com/c/alaska2-image-steganalysis|
+|ALASKA2 Image Steganalysis|	Detect secret data hidden within digital images|	Yes|	https://www.kaggle.com/c/alaska2-image-steganalysis|
 |Prostate cANcer graDe Assessment (PANDA) Challenge |	Prostate cancer diagnosis using the Gleason grading system |No |https://www.kaggle.com/c/prostate-cancer-grade-assessment |
-|VinBigData Chest X-ray Abnormalities Detection|	Automatically localize and classify thoracic abnormalities from chest radiographs|No|	https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection|
+|VinBigData Chest X-ray Abnormalities Detection|	Automatically localize and classify thoracic abnormalities from chest radiographs|Yes|	https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection|
 |Human Protein Atlas - Single Cell Classification	|"Find individual human cell differences in microscope images|No|https://www.kaggle.com/c/hpa-single-cell-image-classification/overview|
 |**Tabular Data**|			
 |2019 Data Science Bowl|	Uncover the factors to help measure how young children learn|	No|	https://www.kaggle.com/c/data-science-bowl-2019|

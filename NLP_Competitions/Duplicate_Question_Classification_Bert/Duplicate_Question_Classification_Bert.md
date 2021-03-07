@@ -262,7 +262,7 @@ sns.countplot(x=trn_df[trn_df.kfold==1].is_duplicate);
 ```
 
 
-![png](/img/ques/output_23_0.png)
+![png](output_23_0.png)
 
 
 ## Cleaning the Text

@@ -7,7 +7,7 @@
 
 The dataset comprises 18,000 postero-anterior (PA) CXR scans in DICOM format, which were de-identified to protect patient privacy. All images were labeled by a panel of experienced radiologists for the presence of 14 critical radiographic findings as listed below:
 
-<code>
+```
 0 - Aortic enlargement
 1 - Atelectasis
 2 - Calcification
@@ -23,7 +23,7 @@ The dataset comprises 18,000 postero-anterior (PA) CXR scans in DICOM format, wh
 12 - Pneumothorax
 13 - Pulmonary fibrosis
 14 - No Finding
-</code>
+```
 
 
 ## Loading Useful libraries
@@ -71,19 +71,7 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -189,19 +177,6 @@ df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">

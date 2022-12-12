@@ -1,4 +1,4 @@
-# 2021 Personal Practice Projects
+# Personal Practice Projects
 
 * This is personal curated competitions list of kaggle competitions.
 * To challenge myself and learn on the process.
